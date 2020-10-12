@@ -1,0 +1,13 @@
+E:\mysoft\test\ProcessManager\ProcessManager\bin\Debug\netcoreapp3.1\ProcessManager.exe
+E:\mysoft\test\ProcessManager\ProcessManager\bin\Debug\netcoreapp3.1\ProcessManager.deps.json
+E:\mysoft\test\ProcessManager\ProcessManager\bin\Debug\netcoreapp3.1\ProcessManager.runtimeconfig.json
+E:\mysoft\test\ProcessManager\ProcessManager\bin\Debug\netcoreapp3.1\ProcessManager.runtimeconfig.dev.json
+E:\mysoft\test\ProcessManager\ProcessManager\bin\Debug\netcoreapp3.1\ProcessManager.dll
+E:\mysoft\test\ProcessManager\ProcessManager\bin\Debug\netcoreapp3.1\ProcessManager.pdb
+E:\mysoft\test\ProcessManager\ProcessManager\obj\Debug\netcoreapp3.1\ProcessManager.csprojAssemblyReference.cache
+E:\mysoft\test\ProcessManager\ProcessManager\obj\Debug\netcoreapp3.1\ProcessManager.AssemblyInfoInputs.cache
+E:\mysoft\test\ProcessManager\ProcessManager\obj\Debug\netcoreapp3.1\ProcessManager.AssemblyInfo.cs
+E:\mysoft\test\ProcessManager\ProcessManager\obj\Debug\netcoreapp3.1\ProcessManager.csproj.CoreCompileInputs.cache
+E:\mysoft\test\ProcessManager\ProcessManager\obj\Debug\netcoreapp3.1\ProcessManager.dll
+E:\mysoft\test\ProcessManager\ProcessManager\obj\Debug\netcoreapp3.1\ProcessManager.pdb
+E:\mysoft\test\ProcessManager\ProcessManager\obj\Debug\netcoreapp3.1\ProcessManager.genruntimeconfig.cache
